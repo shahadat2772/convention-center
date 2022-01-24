@@ -8,13 +8,9 @@
     background-image: url('images/wedding-33.jpg');
 }
 
-.carusel-detail-text{
-    color: lightgray;
+.bg-for-package{
+    background-color: rgba(238, 194, 255, 0.938);
 }
-
-
-@media only screen and (max-width: 430px) {
-    .carousel-caption{
-        padding-bottom: 0px;
-    }
-  }
+.carusel-detail-text{
+    color: rgb(161, 161, 161);
+}
