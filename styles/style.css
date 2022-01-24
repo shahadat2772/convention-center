@@ -1,16 +1,10 @@
-.carusel-bg-11{
-    background-image: url('images/wedding-11.jpg');
-}
-.carusel-bg-22{
-    background-image: url('images/wedding-22.jpg');
-}
-.carusel-bg-33{
-    background-image: url('images/wedding-33.jpg');
-}
 
 .bg-for-package{
     background-color: rgba(238, 194, 255, 0.938);
 }
 .carusel-detail-text{
     color: rgb(161, 161, 161);
+}
+.bg-for-acordion00{
+    background-color: rgb(173, 58, 173);
 }
