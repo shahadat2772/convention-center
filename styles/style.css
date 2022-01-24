@@ -1,10 +1,10 @@
 
 .bg-for-package{
-    background-color: rgba(238, 194, 255, 0.938);
+    background-color: rgba(246, 224, 255, 0.938);
 }
 .carusel-detail-text{
     color: rgb(161, 161, 161);
 }
-.bg-for-acordion00{
-    background-color: rgb(173, 58, 173);
+.carusel-text-color{
+    color: lightgray;
 }
